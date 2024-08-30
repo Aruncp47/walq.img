@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "535260281367",
+    "project_id": "walqimg-3344f",
+    "storage_bucket": "walqimg-3344f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535260281367:android:3d3263cda5315bcbc4fa52",
+        "android_client_info": {
+          "package_name": "com.example.walqimg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535260281367-3l71keh6o9rd3ioos4q3ecfssf72jrd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-exQoA3dg2jQwgj8t7TaQdXhrsOycSFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535260281367-3l71keh6o9rd3ioos4q3ecfssf72jrd3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "535260281367-uq0vspgu3ugpmbimqb78ufckp8bl8hds.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.walqimg"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535260281367:android:e12d054072ea33f3c4fa52",
+        "android_client_info": {
+          "package_name": "com.walqfoodindustries.walqimg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535260281367-3l71keh6o9rd3ioos4q3ecfssf72jrd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-exQoA3dg2jQwgj8t7TaQdXhrsOycSFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535260281367-3l71keh6o9rd3ioos4q3ecfssf72jrd3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "535260281367-uq0vspgu3ugpmbimqb78ufckp8bl8hds.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.walqimg"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
